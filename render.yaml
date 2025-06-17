@@ -1,12 +1,6 @@
 services:
   - type: web
     name: courier-service-backend
-<<<<<<< HEAD
     buildCommand: dotnet build Courier_Service_part_1/Courier_Service_part_1.csproj
     startCommand: dotnet run --project Courier_Service_part_1/Courier_Service_part_1.csproj
     plan: free
-=======
-    env: dotnet
-    buildCommand: dotnet build
-    startCommand: dotnet run --project Courier_Service_part_1
->>>>>>> 4f766df96b9512ed592113b0c1b9b1e4205f1680
