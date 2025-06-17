@@ -1,0 +1,283 @@
+[
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.AdminController",
+    "Method": "getAll",
+    "RelativePath": "api/Admin/D_M",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.AdminController",
+    "Method": "add_d_M",
+    "RelativePath": "api/Admin/D_M",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dm",
+        "Type": "Courier_Service_part_1.Model.DTO.D_M_DTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.AdminController",
+    "Method": "login_Dm",
+    "RelativePath": "api/Admin/Login_dm/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.AdminController",
+    "Method": "random_fun",
+    "RelativePath": "api/Admin/randoms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.IndentityController",
+    "Method": "Find_userName",
+    "RelativePath": "api/Indentity/find-username",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.IndentityController",
+    "Method": "NEW_API",
+    "RelativePath": "api/Indentity/getuser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Courier_Service_part_1.Model.DTO.UserDetailsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.IndentityController",
+    "Method": "Login_User",
+    "RelativePath": "api/Indentity/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Courier_Service_part_1.Model.DTO.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.IndentityController",
+    "Method": "AddUser",
+    "RelativePath": "api/Indentity/reg",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Courier_Service_part_1.Model.DTO.UserInfoInputDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.OrderController",
+    "Method": "Getorder",
+    "RelativePath": "api/Order",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.OrderController",
+    "Method": "PostSender",
+    "RelativePath": "api/Order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Courier_Service_part_1.Model.DTO.Order_traking_DTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.OrderController",
+    "Method": "assign_order_into_dm",
+    "RelativePath": "api/Order",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "Courier_Service_part_1.Model.DTO.Staatus_update",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.OrderController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Order/all_order",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.OrderController",
+    "Method": "getOrderDetails",
+    "RelativePath": "api/Order/dapper_class",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.OrderController",
+    "Method": "dm_table",
+    "RelativePath": "api/Order/dm_dashbord/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.OrderController",
+    "Method": "dm_status_update",
+    "RelativePath": "api/Order/order_status_update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "Courier_Service_part_1.Model.DTO.Staatus_update",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.OrderController",
+    "Method": "random_fun",
+    "RelativePath": "api/Order/random",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.OrderController",
+    "Method": "GetReciver",
+    "RelativePath": "api/Order/reciver",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.OrderController",
+    "Method": "GetSender",
+    "RelativePath": "api/Order/sender",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Courier_Service_part_1.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Courier_Service_part_1.WeatherForecast, Courier_Service_part_1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

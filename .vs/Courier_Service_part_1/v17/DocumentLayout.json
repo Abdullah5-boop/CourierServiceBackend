@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\web project\\dotnet\\Courier_Service_part_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|f:\\web project\\dotnet\\courier_service_part_1\\controllers\\indentitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|solutionrelative:controllers\\indentitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|f:\\web project\\dotnet\\courier_service_part_1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9F8DDD-EBF3-4EE3-8248-6A147E338FBA}|..\\demo_3\\demo_3.csproj|f:\\web project\\dotnet\\demo_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|f:\\web project\\dotnet\\courier_service_part_1\\model\\dto\\demo_dapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|solutionrelative:model\\dto\\demo_dapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|f:\\web project\\dotnet\\courier_service_part_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|f:\\web project\\dotnet\\courier_service_part_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|f:\\web project\\dotnet\\courier_service_part_1\\model\\dto\\status_senderclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|solutionrelative:model\\dto\\status_senderclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|f:\\web project\\dotnet\\courier_service_part_1\\model\\dto\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|solutionrelative:model\\dto\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|f:\\web project\\dotnet\\courier_service_part_1\\model\\dto\\dm_dashborddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|solutionrelative:model\\dto\\dm_dashborddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|f:\\web project\\dotnet\\courier_service_part_1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|f:\\web project\\dotnet\\courier_service_part_1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2E3F9A-E7EB-4C27-9EE7-985E86F9F6F8}|Courier_Service_part_1.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\web project\\dotnet\\demo_3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\demo_3\\Program.cs",
+              "ToolTip": "F:\\web project\\dotnet\\demo_3\\Program.cs",
+              "RelativeToolTip": "..\\demo_3\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwGIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:25:55.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo_dapper.cs",
+              "DocumentMoniker": "F:\\web project\\dotnet\\Courier_Service_part_1\\Model\\DTO\\Demo_dapper.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Demo_dapper.cs",
+              "ToolTip": "F:\\web project\\dotnet\\Courier_Service_part_1\\Model\\DTO\\Demo_dapper.cs",
+              "RelativeToolTip": "Model\\DTO\\Demo_dapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:22:37.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dm_dashbordDTO.cs",
+              "DocumentMoniker": "F:\\web project\\dotnet\\Courier_Service_part_1\\Model\\DTO\\Dm_dashbordDTO.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Dm_dashbordDTO.cs",
+              "ToolTip": "F:\\web project\\dotnet\\Courier_Service_part_1\\Model\\DTO\\Dm_dashbordDTO.cs",
+              "RelativeToolTip": "Model\\DTO\\Dm_dashbordDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:15:47.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "F:\\web project\\dotnet\\Courier_Service_part_1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "F:\\web project\\dotnet\\Courier_Service_part_1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:14:21.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "F:\\web project\\dotnet\\Courier_Service_part_1\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "F:\\web project\\dotnet\\Courier_Service_part_1\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwLoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:28:38.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDetailsDTO.cs",
+              "DocumentMoniker": "F:\\web project\\dotnet\\Courier_Service_part_1\\Model\\DTO\\UserDetailsDTO.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\UserDetailsDTO.cs",
+              "ToolTip": "F:\\web project\\dotnet\\Courier_Service_part_1\\Model\\DTO\\UserDetailsDTO.cs",
+              "RelativeToolTip": "Model\\DTO\\UserDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:59:53.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Status_SenderCLass.cs",
+              "DocumentMoniker": "F:\\web project\\dotnet\\Courier_Service_part_1\\Model\\DTO\\Status_SenderCLass.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Status_SenderCLass.cs",
+              "ToolTip": "F:\\web project\\dotnet\\Courier_Service_part_1\\Model\\DTO\\Status_SenderCLass.cs",
+              "RelativeToolTip": "Model\\DTO\\Status_SenderCLass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:13:42.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\web project\\dotnet\\Courier_Service_part_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\web project\\dotnet\\Courier_Service_part_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:59:47.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\web project\\dotnet\\Courier_Service_part_1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\web project\\dotnet\\Courier_Service_part_1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T15:49:17.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndentityController.cs",
+              "DocumentMoniker": "F:\\web project\\dotnet\\Courier_Service_part_1\\Controllers\\IndentityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IndentityController.cs",
+              "ToolTip": "F:\\web project\\dotnet\\Courier_Service_part_1\\Controllers\\IndentityController.cs",
+              "RelativeToolTip": "Controllers\\IndentityController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAApwB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:46:47.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\web project\\dotnet\\Courier_Service_part_1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\web project\\dotnet\\Courier_Service_part_1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:46:39.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

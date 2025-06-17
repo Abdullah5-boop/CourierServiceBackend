@@ -1,0 +1,6 @@
+@Courier_Service_part_1_HostAddress = http://localhost:5027
+
+GET {{Courier_Service_part_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
