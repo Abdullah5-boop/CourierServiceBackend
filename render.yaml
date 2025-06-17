@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: courier-service-backend
+    env: dotnet
+    buildCommand: dotnet build
+    startCommand: dotnet run --project Courier_Service_part_1
