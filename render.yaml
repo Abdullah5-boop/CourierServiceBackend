@@ -4,3 +4,4 @@ services:
     buildCommand: dotnet build Courier_Service_part_1/Courier_Service_part_1.csproj
     startCommand: dotnet run --project Courier_Service_part_1/Courier_Service_part_1.csproj
     plan: free
+    
